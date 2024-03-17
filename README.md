@@ -1,7 +1,7 @@
-# js-lab-165
-### Lab 165 ES6: Array destructuring2
-ให้ใช้ Array destructuring โดยให้ a, b, c, d, e และ f มีค่า 1, 2, 3, 4, 5, และ 6 ตามลำดับ
+# js-lab-166
+### Lab 166 ES6: Object destructuring2
+ให้ใช้ Object destructuring โดยให้ a เท่ากับ 5 และ b เท่ากับ 10
 
 ```JavaScript
-let arr = [1, [2, [[[3, 4], 5], 6]]];
+const obj = { prop: 5, prop2: 10 };
 ```
